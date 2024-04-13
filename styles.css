@@ -1,0 +1,19 @@
+.cmp-logo{
+    height: 50px;
+    width: 100px;
+    border-radius: 8%;
+    margin-right: 4px;
+
+}
+
+.cmp-logo-text{
+   font-size: 24px !important;
+}
+.title-main{
+    font-size: 40px;
+    color: bisque;
+}
+.title-text{
+    font-size: 24px !important;
+    color: white;
+}
